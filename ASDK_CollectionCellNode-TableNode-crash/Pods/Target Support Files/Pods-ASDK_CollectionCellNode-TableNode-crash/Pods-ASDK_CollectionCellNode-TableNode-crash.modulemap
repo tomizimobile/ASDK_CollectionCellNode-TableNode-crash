@@ -1,0 +1,6 @@
+framework module Pods_ASDK_CollectionCellNode_TableNode_crash {
+  umbrella header "Pods-ASDK_CollectionCellNode-TableNode-crash-umbrella.h"
+
+  export *
+  module * { export * }
+}

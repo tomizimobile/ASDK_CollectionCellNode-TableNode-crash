@@ -1,0 +1,9 @@
+platform :ios, '8.0'
+use_frameworks!
+
+target 'ASDK_CollectionCellNode-TableNode-crash' do
+
+pod 'AsyncDisplayKit'
+
+end
+
